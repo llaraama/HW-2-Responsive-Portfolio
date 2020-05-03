@@ -1,0 +1,14 @@
+body{
+    background-color: honeydew;
+}
+
+.navbar-title{
+    background-color: rgb(233, 229, 229);
+   
+
+    background-image: url("../images/background.webp");
+    height: 800px;
+    width: 100%;
+    margin-bottom: 40px;
+    background-size: cover;
+    background-position: center;
