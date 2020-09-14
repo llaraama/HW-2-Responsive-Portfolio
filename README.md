@@ -1,6 +1,6 @@
 ## Responsive-Portfolio
 
-A web application that was responsive to various screen sizes. 
+A web application that is responsive to various screen sizes. 
 
 * This activity helped me to learn the skill of using both Bootstraping and css at the same time. 
 
